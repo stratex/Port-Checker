@@ -129,6 +129,7 @@
             this.Controls.Add(this.txtIP);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.cmdStart);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "frmMain";
             this.Text = "Port Checker";
             ((System.ComponentModel.ISupportInitialize)(this.PortMin)).EndInit();

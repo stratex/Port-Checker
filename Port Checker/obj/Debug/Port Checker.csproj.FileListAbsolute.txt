@@ -13,3 +13,9 @@ D:\Development\C#\GitHub\Port Checker\Port Checker\obj\Debug\Port Checker.pdb
 D:\Development\C#\PortChecker\Port Checker\bin\Debug\Port Checker.exe.config
 D:\Development\C#\PortChecker\Port Checker\obj\Debug\Port Checker.exe
 D:\Development\C#\PortChecker\Port Checker\obj\Debug\Port Checker.pdb
+D:\Development\C#\PortChecker\Port Checker\bin\Debug\Port Checker.exe
+D:\Development\C#\PortChecker\Port Checker\bin\Debug\Port Checker.pdb
+D:\Development\C#\PortChecker\Port Checker\obj\Debug\Port Checker.csprojResolveAssemblyReference.cache
+D:\Development\C#\PortChecker\Port Checker\obj\Debug\Port_Checker.frmMain.resources
+D:\Development\C#\PortChecker\Port Checker\obj\Debug\Port_Checker.Properties.Resources.resources
+D:\Development\C#\PortChecker\Port Checker\obj\Debug\Port Checker.csproj.GenerateResource.Cache
