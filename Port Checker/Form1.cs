@@ -18,9 +18,10 @@ namespace Port_Checker
 
         private void cmdStart_Click(object sender, EventArgs e)
         {
-                Thread oThread = new Thread(new ThreadStart(CheckPorts));
-                oThread.IsBackground = true;
-                oThread.Start();
+            listPort.Items.Clear();
+            Thread oThread = new Thread(new ThreadStart(CheckPorts));
+            oThread.IsBackground = true;
+            oThread.Start();
         }
 
         private void CheckPorts()
